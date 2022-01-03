@@ -80,3 +80,10 @@ body{
     box-shadow: 10px 10px 50px rgb(66, 66, 8);
     border-radius: 10px;
 }
+
+footer p{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 700;
+    text-align: center;
+}
