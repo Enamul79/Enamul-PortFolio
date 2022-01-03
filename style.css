@@ -7,7 +7,7 @@ body{
     color:#009E65;
 }
 
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
